@@ -1,3 +1,3 @@
-## ACT Driving Simulator VIP @ Georgia Tech
+**ACT Driving Simulator VIP @ Georgia Tech**
 
-## Lane Change Subteam
+**Lane Change Subteam**
